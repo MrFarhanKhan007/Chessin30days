@@ -15,6 +15,11 @@ import com.example.woofapp.ui.theme.Chessin30daysTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+//        WindowCompat.setDecorFitsSystemWindows(window,false)
+//        WindowInsetsControllerCompat(window, window.decorView).apply {
+//            hide(WindowInsetsCompat.Type.statusBars())
+//            systemBarsBehavior = WindowInsetsControllerCompat.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE
+//        }
         setContent {
             Chessin30daysTheme {
                 // A surface container using the 'background' color from the theme
