@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">Chess in 30 days</string>
+    <string name="Bishops_Opening">Bishop\'sOpening</string>
+    <string name="Birds_Opening">Bird\'s Opening</string>
+    <string name="Centre_Game">Centre Game</string>
+    <string name="Italian_Game">Italian Game</string>
+    <string name="Giuoco_Piano">Giuoco Piano</string>
+    <string name="Kings_Gambit">King\'s Gambit</string>
+    <string name="Vienna_Game">Vienna Game</string>
+    <string name="Ruy_Lopez">Ruy Lopez</string>
+    <string name="Petrov_Defense">Petrov Defense</string>
+    <string name="Scotch_Game">Scotch Game</string>
+    <string name="Four_Knights_Game">Four Knights Game</string>
+    <string name="Philidor_Defense">Philidor Defense</string>
+    <string name="Pirc_Defense">Pirc\'s Defense</string>
+    <string name="Scandinavian_Defense">Scandinavian Defense</string>
+    <string name="Alekhine_Defense">Alekhine Defense</string>
+    <string name="French_Defense">French Defense</string>
+    <string name="CaroKann_Defense">Caro Kann Defense</string>
+    <string name="Modern_Defense">Modern Defense</string>
+    <string name="Old_Indian_Defense">Old Indian Defense</string>
+    <string name="Benko_Gambit">Benko Gambit</string>
+    <string name="Dutch_Defense">Dutch Defense</string>
+    <string name="NimzoIndian_Defense">Nimzo-Indian Defense</string>
+    <string name="Queens_Gambit">Queen\'s Gambit</string>
+    <string name="Catalan_Opening">Catalan Opening</string>
+    <string name="Slav_Defense">Slav Defense</string>
+    <string name="English_Opening">English Opening</string>
+    <string name="Reti_Opening">Reti Opening</string>
+    <string name="Sicilian_Defense">Sicilian Defense</string>
+    <string name="KingsIndian_Defense">King\'s Indian Defense</string>
+
+    <string name="Day1">Day 1</string>
+    <string name="Day2">Day 2</string>
+    <string name="Day3">Day 3</string>
+    <string name="Day4">Day 4</string>
+    <string name="Day5">Day 5</string>
+    <string name="Day6">Day 6</string>
+    <string name="Day7">Day 7</string>
+    <string name="Day8">Day 8</string>
+    <string name="Day9">Day 9</string>
+    <string name="Day10">Day 10</string>
+    <string name="Day11">Day 11</string>
+    <string name="Day12">Day 12</string>
+    <string name="Day13">Day 13</string>
+    <string name="Day14">Day 14</string>
+    <string name="Day15">Day 15</string>
+    <string name="Day16">Day 16</string>
+    <string name="Day17">Day 17</string>
+    <string name="Day18">Day 18</string>
+    <string name="Day19">Day 19</string>
+    <string name="Day20">Day 20</string>
+    <string name="Day21">Day 21</string>
+    <string name="Day22">Day 22</string>
+    <string name="Day23">Day 23</string>
+    <string name="Day24">Day 24</string>
+    <string name="Day25">Day 25</string>
+    <string name="Day26">Day 26</string>
+    <string name="Day27">Day 27</string>
+    <string name="Day28">Day 28</string>
+    <string name="Day29">Day 29</string>
+    <string name="Day30">Day 30</string>
+
+    <string name="Bishops_Opening_DES">The Bishop\'s Opening is a chess opening that begins with the moves: \n
+
+1. e4 e5 \n
+2. Bc4 \n
+White attacks Black\'s f7-square and prevents Black from advancing the d-pawn to d5. By ignoring the beginner\'s maxim \"develop knights before bishops\", White leaves its f-pawn unblocked, preserving the possibility of f2–f4.</string>
+
+    <string name="Birds_Opening_DES">Bird\'s Opening (or the Dutch Attack) is a chess opening characterised by the move: \n
+
+1. f4 \n
+Named after 19th century English player Henry Bird, Bird\'s opening is a standard flank opening.White\'s strategic ideas involve control of the e5-square, offering good attacking chances at the expense of slightly weakening their own kingside. Black may challenge White\'s plan to control e5 immediately by playing From\'s Gambit (1...e5); however, the From Gambit is notoriously double-edged and should only be played after significant study.</string>
+
+    <string name="Centre_Game_DES">The Center Game is a chess opening that begins with the moves:\n
+
+1. e4 e5 \n
+2. d4 exd4 \n
+The game usually continues 3.Qxd4 Nc6, developing with a gain of tempo for Black due to the attack on the white queen. (Note that 3.c3 is considered a separate opening: the Danish Gambit.)</string>
+
+    <string name="Italian_Game_DES">The Italian Game is a family of chess openings beginning with the moves: \n
+
+1. e4 e5 \n
+2. Nf3 Nc6 \n
+3. Bc4 \n
+This opening is defined by the development of the white bishop to c4 (the so-called \"Italian bishop\"), where it attacks Black\'s vulnerable f7-square. It is part of the large family of Open Games or Double King\'s Pawn Games.</string>
+
+
+    <string name="Giuoco_Piano_DES">The Giuoco Piano (Italian for \'Quiet Game\'; pronounced [ˈdʒwɔːko ˈpjaːno])) is a chess opening beginning with the moves: \n
+
+1. e4 e5 \n
+2. Nf3 Nc6 \n
+3. Bc4 Bc5 \n
+"White aims to develop quickly – but so does Black. White can construct a pawn centre but in unfavourable conditions a centre which cannot provide a basis for further active play."</string>
+
+    <string name="Kings_Gambit_DES">The King\'s Gambit is a chess opening that begins with the moves: \n
+
+1. e4 e5 \n
+2. f4 \n
+White offers a pawn to divert the black e-pawn. If Black accepts the gambit, White may play d4 and Bxf4, regaining the gambit pawn with central domination, or direct their forces against the weak square f7 with moves such as Nf3, Bc4, 0-0, and g3. A downside to the King\'s Gambit is that it weakens White\'s king\'s position, exposing it to the latent threat of ...Qh4+ (or ...Be7–h4+), which may force White to give up castling rights.</string>
+
+    <string name="Vienna_Game_DES">The Vienna Game is an opening in chess that begins with the moves: \n
+
+1. e4 e5 \n
+2. Nc3 \n
+White\'s second move is less common than 2.Nf3, and is also more recent.
+
+The original idea behind the Vienna Game was to play a delayed King\'s Gambit with f4 (the Vienna Gambit), but in modern play White often plays more quietly (for example, by fianchettoing his king\'s bishop with g3 and Bg2). Black most often continues with 2...Nf6. The opening can also lead to the Frankenstein–Dracula Variation.</string>
+
+    <string name="Ruy_Lopez_DES">The Ruy Lopez (/rɔɪ, ˈruːi/; Spanish: [ˈruj ˈlopeθ]),[1] also called the Spanish Opening or Spanish Game, is a chess opening characterised by the moves: \n
+1. e4 e5 \n
+2. Nf3 Nc6 \n
+3. Bb5 </string>
+
+    <string name="Petrov_Defense_DES">Petrov\'s Defence or the Petrov Defence (also called Petroff Defence, Petrov\'s Game, Russian Defence, or Russian Game – Russian: Русская партия) is a chess opening characterised by the following moves: \n
+1. e4 e5 \n
+2. Nf3 Nf6</string>
+
+    <string name="Scotch_Game_DES">The Scotch Game, or Scotch Opening, is a chess opening that begins with the moves: \n
+1. e4 e5 \n
+2. Nf3 Nc6 \n
+3. d4
+</string>
+
+    <string name="Four_Knights_Game_DES">The Four Knights Game is a chess opening that begins with the moves: \n
+1. e4 e5 \n
+2. Nf3 Nc6 \n
+3. Nc3 Nf6 \n
+This is the most common sequence, but the knights may develop in any order to reach the same position.</string>
+
+    <string name="Philidor_Defense_DES">The Philidor Defence (or Philidor\'s Defence) is a chess opening characterised by the moves: \n
+1. e4 e5 \n
+2. Nf3 d6 \n
+The opening is named after the famous 18th-century player François-André Danican Philidor, who advocated it as an alternative to the common 2...Nc6. His original idea was to challenge White\'s centre by the pawn thrust ...f7–f5.</string>
+
+    <string name="Pirc_Defense_DES">The Pirc Defence (pronounced /pɪərts/ peerts) is a chess
+        opening characterised by the response of Black to 1.e4 with 1…d6 and 2…Nf6, followed by …g6 and …Bg7,
+        while allowing White to establish a centre with pawns on d4 and e4.
+        It is named after the Slovenian grandmaster Vasja Pirc.
+
+The Pirc Defence is usually defined by the opening sequence:
+\n
+1. e4 d6 \n
+2. d4 Nf6 \n
+3. Nc3 g6 \n
+This is the most commonly played line after Black responds to 1.e4 with 1…d6. It has been claimed to give rise to somewhat interesting and exciting games, where Black will have counterplay but has to be cautious about playing too passively.</string>
+
+    <string name="Scandinavian_Defense_DES">The Scandinavian Defense (or Center Counter Defense, or Center Counter Game) is a chess opening characterized by the moves:
+\n
+1. e4 d5 \n</string>
+
+    <string name="Alekhine_Defense_DES">The Alekhine\'s Defence is a chess opening that begins with the moves:
+\n
+1. e4 Nf6 \n
+Black tempts White\'s pawns forward to form a broad pawn centre, with plans to undermine and attack the white structure later in the spirit of hypermodern defence. White\'s imposing mass of pawns in the centre often includes pawns on c4, d4, e5, and f4.</string>
+    <string name="French_Defense_DES">The French Defence is a chess opening characterised by the moves:
+\n
+1. e4 e6 \n
+This is most commonly followed by 2.d4 d5. Black usually plays ...c5 soon after, attacking White\'s pawn centre and gaining space on the queenside. The French has a reputation for solidity and resilience, although some lines such as the Winawer Variation can lead to sharp complications. Black\'s position is often somewhat cramped in the early game; in particular, the pawn on e6 can impede the development of the bishop on c8.</string>
+    <string name="CaroKann_Defense_DES">The Caro–Kann Defence is a chess opening characterised by the moves:
+\n
+1. e4 c6 \n
+The Caro–Kann is a common defence against the King\'s Pawn Opening. It is classified as a Semi-Open Game, like the Sicilian Defence and French Defence, although it is thought to be more solid and less dynamic than either of those openings. It often leads to good endgames for Black, who has the better pawn structure. It allows Black to circumvent enormous bodies of theory in 1.e4 openings such as the Ruy Lopez and the Sicilian Defence.</string>
+
+    <string name="Modern_Defense_DES">The Modern Defence is a chess opening characterised by the moves:
+\n
+        1. e4 g6 \n
+        2. d4 Bg7 \n
+        The Modern Defense (also known as the Robatsch Defence after Karl Robatsch) is a hypermodern chess opening in which Black allows White to occupy the center with pawns on d4 and e4, then proceeds to attack and undermine this "ideal" center without attempting to occupy it. The opening has been most notably used by British grandmasters Nigel Davies and Colin McNab.</string>
+
+    <string name="Old_Indian_Defense_DES">The Old Indian Defense is a chess opening defined by the moves:
+
+1. d4 Nf6 \n
+2. c4 d6 \n
+This opening is distinguished from the King\'s Indian Defense in that Black develops their king\'s bishop on e7 rather than by fianchetto on g7. Mikhail Chigorin pioneered this defense late in his career.</string>
+
+    <string name="Benko_Gambit_DES">The Benko Gambit (or Volga Gambit) is a chess opening characterised by the move 3…b5 in the Benoni Defence arising after:
+\n
+1. d4 Nf6 \n
+2. c4 c5 \n
+3. d5 b5 \n
+Black sacrifices a pawn for enduring queenside pressure. White can accept or decline the gambit pawn.</string>
+
+    <string name="Dutch_Defense_DES">The Dutch Defence is a chess opening characterised by the moves:
+\n
+1. d4 f5 \n
+\n Black\'s 1…f5 stakes a claim to the e4-square and envisions an attack in the middlegame on White\'s kingside; however, it also weakens Black\'s kingside to an extent (especially the e8–h5 diagonal).Like its 1.e4 counterpart, the Sicilian Defence, the Dutch is an aggressive and unbalancing opening, resulting in the lowest percentage of draws among the most common replies to 1.d4.</string>
+
+    <string name="NimzoIndian_Defense_DES">The Nimzo-Indian Defence is a chess opening characterised by the moves:
+\n
+1. d4 Nf6 \n
+2. c4 e6 \n
+3. Nc3 Bb4 \n
+Other move orders, such as 1.c4 e6 2.Nc3 Nf6 3.d4 Bb4, are also feasible.</string>
+
+    <string name="Queens_Gambit_DES">The Queen\'s Gambit is the chess opening that starts with the moves:
+
+\n1. d4 d5
+\n2. c4</string>
+
+    <string name="Catalan_Opening_DES">The Catalan Opening is the chess opening that starts with the moves: \n
+   \n     1. d4 d5 \n
+
+        2. c4 e6 \n
+
+        3. Nf3 Nf6 \n
+
+        4. g3 \n
+        The Catalan Opening is a chess opening where White plays d4 and c4 and fianchettoes the white bishop on g2. A common opening sequence is 1.d4 Nf6 2.c4 e6 3.g3, although various other openings can transpose into the Catalan.</string>
+
+    <string name="Slav_Defense_DES">The Slav Defense is a chess opening that begins with the moves:
+
+\n 1. d4 d5 \n
+2. c4 c6 \n
+The Slav is one of the primary defenses to the Queen\'s Gambit.</string>
+
+    <string name="English_Opening_DES">The English Opening is a chess opening that begins with the move:
+
+\n 1. c4 \n
+A flank opening, it is the fourth most popular and, according to various databases, one of the four most successful of White\'s twenty possible first moves.White begins the fight for the centre by staking a claim to the d5-square from the wing, in hypermodern style. Although many lines of the English have a distinct character, the opening is often used as a transpositional device in much the same way as 1.Nf3 – to avoid such highly regarded responses to 1.d4 as the Nimzo-Indian and Grünfeld Defences — and is considered reliable and flexible.</string>
+
+    <string name="Reti_Opening_DES">The Réti Opening is a hypermodern chess opening whose "traditional" or "classic method" begins with the moves:
+
+\n 1. Nf3 d5 \n
+2. c4 \n
+White attacks Black\'s pawn from the flank, which may occasion 2…dxc4. White may couple this plan with a kingside fianchetto (g3 and Bg2) to create pressure on the light squares in the center.</string>
+
+    <string name="Sicilian_Defense_DES">The Sicilian Defence is a chess opening that begins with the following moves:
+
+\n 1. e4 c5 \n
+        The Sicilian is the most popular and best-scoring response to White\'s first move 1.e4. Opening 1.d4 is a statistically more successful opening for White because of the high success rate of the Sicilian defence against 1.e4</string>
+
+    <string name="KingsIndian_Defense_DES">The King\'s Indian Defence (or KID) is a common chess opening. It is defined by the following moves:
+
+\n1. d4 Nf6 \n
+2. c4 g6 \n
+Black intends to follow up with 3…Bg7 and 4…d6 (the Grünfeld Defence arises when Black plays 3…d5 instead and is considered a separate opening). White/\'s major third move options are 3.Nc3, 3.Nf3 or 3.g3, with both the King\'s Indian and Grünfeld playable against these moves.</string>
+
+    <string name="Grunfield_Defence">Grünfeld Defence</string>
+    <string name="Grunfield_Defence_DES">The Grünfeld Defence is a chess opening characterised by the moves:
+
+\n1. d4 Nf6 \n
+2. c4 g6 \n
+3. Nc3 d5</string>
+</resources>
