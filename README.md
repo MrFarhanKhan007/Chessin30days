@@ -12,7 +12,7 @@ Easiest to hardest openings
 Designed for chess hustlers
 
 ## 📱 Screenshots
-<img src="./Githubchessimagecopy.png" width="800" />
+<img src="./Githubchessimagecopy.jpg" width="800" />
 
 ## 📝 How to Use
 
