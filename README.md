@@ -3,7 +3,7 @@
 Welcome to Chessin30days, an Android app made using Kotlin and Jetpack Compose, designed to help chess hustlers learn some of the main chess openings in just one month!
 
 ## 📖 Description
-This app features 30 openings for 30 days, with one opening to learn each day. The openings range from easiest to hardest to play, with Day 1 having the easiest opening and Day 30 having the hardest opening, including more complex lines.
+This app features 30 openings for 30 days, with one opening to learn each day. The openings range from easiest to hardest to play, with Day 1 having the easiest opening and Day 30 having the hardest opening,from beginner to master Level.
 
 ## 🚀 Features
 
